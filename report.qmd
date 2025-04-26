@@ -49,7 +49,7 @@ This report explores trends in iodized salt consumption based on UNICEF datasets
 
 - **_Iodine requirements_** vary **significantly** across _different life stages_.
 - **_Nutritional programs_** must prioritize **adolescents** and **pregnant women**.
-- These groups have **substantially higher iodine needs** compared to others.
+- These groups have **substantially higher iodine needs** compared to others
 
 
 # Global Average Iodized Salt Consumption (2000–2020)
