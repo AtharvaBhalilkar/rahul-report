@@ -1,0 +1,54 @@
+---
+title: "Global Insights on Iodized Salt Consumption"
+author:
+- Rahul Chowdhary
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: "Contents"
+    toc-depth: 2
+    page-layout: full
+---
+
+# Introduction
+
+Iodine is a crucial micronutrient necessary for thyroid health, brain development, and growth.  
+Universal salt iodization is one of the most successful public health initiatives globally.  
+This report explores trends in iodized salt consumption based on UNICEF datasets through a series of visual analyses.
+
+# Iodized Salt Consumption Across Countries
+
+![](images/worldmap.png){fig-align="center" width="85%"}
+
+**Insight:**  
+The choropleth map displays high salt iodization coverage throughout Asian regions and Latin American areas yet Sub-Saharan African and certain Middle Eastern countries have lower consumption levels. There is a need for concentrated initiatives to ensure iodine fortification of salt reaches every population.
+
+# Recommended Daily Iodine Intake by Age Group
+
+![](images/barchart.png){fig-align="center" width="70%"}
+
+**Insight:**  
+Accurate nutrition strategies should be customized for different life stages since iodine needs sharply increase during adolescence and pregnancy.
+
+# Global Average Iodized Salt Consumption (2000–2020)
+
+![](images/linechart.png){fig-align="center" width="80%"}
+
+**Insight:**  
+The consumption rates of iodized salt across the globe demonstrate positive development from 2000 through 2020. The average trend shows that public health efforts for salt iodization have found success according to data analysis.
+
+# Trend of Iodized Salt Consumption Over Time
+
+![](images/scatter_reg.png){fig-align="center" width="80%"}
+
+**Insight:**  
+A scatterplot showing the regression line demonstrates that combined countries monitor increasing iodized salt use while some regions and countries remain different.
+
+# Conclusion
+
+Iodized salt consumption has improved globally, preventing iodine deficiency-related diseases in millions of people.  
+However, to fully eliminate iodine deficiency disorders (IDDs), continuous efforts are needed, especially in vulnerable countries where coverage still remains low.
+
+---
